@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Nouaaman
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning react and symfony
-<!---- 💞️ I’m looking to collaborate on ...--->
+- 🌱 I’m currently learning react
 - 📫 How to reach me?... nouaamank1@gmail.com
+- 
+<!---- 💞️ I’m looking to collaborate on ...--->
 
 <!---
 Nouaaman/Nouaaman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
