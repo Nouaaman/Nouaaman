@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nouaaman
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning react
-- 📫 How to reach me?... nouaamank1@gmail.com
+- 📫 How to reach me?... nouaaman.r@outlook.com
 <!---- 💞️ I’m looking to collaborate on ...--->
 
 <!---
