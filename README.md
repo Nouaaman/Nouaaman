@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Nouaaman
 - 👀 I’m interested in web & mobile development
-- 🌱 I’m currently learning React Native, nodeJs and MongoDB
 - 📫 How to reach me?... nouaaman.r@outlook.com
 <!---- 💞️ I’m looking to collaborate on ...--->
 
